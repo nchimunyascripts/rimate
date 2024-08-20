@@ -1,5 +1,5 @@
 # RIMATE
-Find the right roommate
+**Find the right roommate**
 ### RIMATE is a Roommate Matching System
 
 #### **Overview**
@@ -46,7 +46,7 @@ The system is designed to:
   - **On-Campus Accommodation:** Housing provided within the university or college campus.
   - **Off-Campus Accommodation:** Housing provided outside the campus premises.
 
-### Technology Documentation for RIMATE a Roommate Matching System
+### Technology for RIMATE a Roommate Matching System
 
 #### **Overview**
 This Part provides details of the technology stack, architecture, and key components of the Roommate Matching System. The system is designed to efficiently match individuals with compatible roommates based on their preferences, utilizing a robust backend, mobile-friendly frontend, and intelligent matching algorithms.
